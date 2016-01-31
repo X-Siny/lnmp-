@@ -49,3 +49,5 @@ rpm -ivh --nosignature MySQL-server-5.5.47-1.linux2.6.x86_64.rpm MySQL-client-5.
 cp /opt/src/lnmp/mysql /etc/init.d/
 chkconfig --add mysql
 chkconfig  mysql on
+
+
